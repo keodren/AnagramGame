@@ -167,7 +167,7 @@ final class StaticWordLibrary extends WordLibrary {
 
     /**
      * Checks whether a user's guess for a word at the given index is correct.
-     * @param idx index of the word guessed
+     * @param idx index of the word guessed.
      * @param userGuess the user's guess for the actual word
      * @return true if the guess was correct; false otherwise
      */
